@@ -78,7 +78,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/social-sharing-1200x800.jpg"
+        "meta_image": "@PROJECT_PATH@/assets/images/og-img-1200x800.jpg"
       },
       "components": [
         {
