@@ -1448,8 +1448,8 @@ section.lazy-placeholder:after {
   }
 }
 .cid-sc4LG51GTq {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 30px;
+  padding-bottom: 0px;
   background-color: #232323;
 }
 .cid-sc4LG51GTq .list-group-item {
@@ -1511,6 +1511,35 @@ section.lazy-placeholder:after {
 }
 .cid-sc4LG51GTq UL {
   color: #e4d295;
+}
+.cid-sc9defmbRE {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #232323;
+}
+.cid-sc9defmbRE .mbr-section-subtitle {
+  color: #e4d295;
+}
+.cid-sc9defmbRE H2 {
+  color: #ffffff;
+}
+.cid-sc9dClHlq6 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #232323;
+}
+.cid-sc9dClHlq6 .mbr-text {
+  color: #767676;
+}
+.cid-sc9dClHlq6 h4 {
+  text-align: center;
+}
+.cid-sc9dClHlq6 p {
+  text-align: center;
+}
+.cid-sc9dClHlq6 .card-img span {
+  font-size: 96px;
+  color: #149dcc;
 }
 .cid-sc4DfX4krq {
   background-image: url("../../../assets/images/2-realite-augmentee-360com-2000x1001.jpg");
