@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "360com-clone",
+    "name": "360com",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -58,7 +58,7 @@
       }
     ],
     "imageResize": true,
-    "uniqCompNum": 94,
+    "uniqCompNum": 82,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
@@ -70,7 +70,7 @@
     "gdpr": false
   },
   "pages": {
-    "ar-vr.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "360com",
@@ -1127,10 +1127,10 @@
         }
       ]
     },
-    "index.html": {
+    "AR.html": {
       "settings": {
         "title": "realite-augmentee",
-        "meta_descr": "SOLUTIONS EN REALITÉ AUGMENTÉE\nENRICHISSEZ VOS IMPRESSIONS\nCRÉEZ DE NOUVELLES INTERACTIONS ",
+        "meta_descr": "ENRICHISSEZ VOS IMPRESSIONS\nCRÉEZ DE NOUVELLES INTERACTIONS ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
