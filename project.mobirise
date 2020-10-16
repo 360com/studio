@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "360com",
-    "currentPage": "realite-augmentee.html",
+    "currentPage": "realite-virtuelle.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -68,7 +68,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "paypal-confirmation.html": {
