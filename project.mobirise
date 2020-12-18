@@ -2434,9 +2434,9 @@
     "imask-product.html": {
       "settings": {
         "meta_descr": "LA PROTECTION QUI INFORME ET DIVERTIT",
-        "title": "imask",
+        "title": "i-MASK",
         "order": 2,
-        "meta_image": "@PROJECT_PATH@/assets/images/i-mask-1200x800.jpeg"
+        "meta_image": "@PROJECT_PATH@/assets/images/imask-1200x800.png"
       },
       "components": [
         {
