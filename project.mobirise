@@ -2431,9 +2431,10 @@
     },
     "imask-product.html": {
       "settings": {
-        "meta_descr": "masque de protection connecté ANTI-COVID 19 ",
+        "meta_descr": "LA PROTECTION QUI INFORME ET DIVERTIT",
         "title": "imask",
-        "order": 2
+        "order": 2,
+        "meta_image": "@PROJECT_PATH@/assets/images/i-mask-1200x800.jpeg"
       },
       "components": [
         {
