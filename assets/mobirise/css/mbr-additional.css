@@ -2673,6 +2673,18 @@ section.lazy-placeholder:after {
     padding-right: 5rem;
   }
 }
+.cid-sjxkE20LCH {
+  background: #ffffff;
+}
+.cid-sjxkE20LCH .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-sjxkE20LCH .video-block {
+    width: 100% !important;
+  }
+}
 .cid-sjw7qJFj8J {
   padding-top: 30px;
   padding-bottom: 30px;
