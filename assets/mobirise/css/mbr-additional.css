@@ -1843,11 +1843,6 @@ section.lazy-placeholder:after {
 .cid-sjvLl37tce .link {
   color: #454545;
 }
-.cid-sjvMxsa9IW {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #e73872;
-}
 .cid-sjw7o267QG {
   background-image: url("../../../assets/images/header-1920x12800.jpg");
 }
@@ -2574,11 +2569,6 @@ section.lazy-placeholder:after {
 }
 .cid-sjw7rYtRHv .mbr-overlay ~ .container-slide {
   z-index: auto;
-}
-.cid-sjw7M3zwyx {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #e73872;
 }
 .cid-sc4EmmGVpN .navbar {
   padding: .5rem 0;
@@ -3365,46 +3355,29 @@ section.lazy-placeholder:after {
   font-size: 96px;
   color: #149dcc;
 }
-.cid-sk4QKPLaSV {
-  display: flex;
-  background-image: url("../../../assets/images/2021-1-360com-masque-ar-vr-2000x1001.jpg");
+.cid-sk5brkBqz2 {
+  background-image: url("../../../assets/images/2021-1-360com-masque-ar-vr-2000x1001.jpeg");
 }
-.cid-sk4QKPLaSV .mbr-overlay {
-  background-color: #353535;
-  opacity: 0.5;
+.cid-sk5brkBqz2 P {
+  color: #767676;
 }
-.cid-sk4QKPLaSV .content-wrap {
-  padding: 5rem 1rem;
+.cid-sk5brkBqz2 H1 {
+  color: #efefef;
 }
-@media (min-width: 768px) {
-  .cid-sk4QKPLaSV {
-    align-items: flex-end;
-  }
-  .cid-sk4QKPLaSV .row {
-    justify-content: center;
-  }
-  .cid-sk4QKPLaSV .content-wrap {
-    width: 51%;
-  }
+.cid-sk5brkBqz2 .mbr-text,
+.cid-sk5brkBqz2 .mbr-section-btn {
+  color: #efefef;
 }
-@media (max-width: 991px) and (min-width: 768px) {
-  .cid-sk4QKPLaSV .content-wrap {
-    min-width: 50%;
-  }
+.cid-sk5b7jb539 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #000000;
 }
-@media (max-width: 767px) {
-  .cid-sk4QKPLaSV {
-    -webkit-align-items: center;
-    align-items: center;
-  }
-  .cid-sk4QKPLaSV .mbr-row {
-    -webkit-justify-content: center;
-    justify-content: center;
-  }
-  .cid-sk4QKPLaSV .content-wrap {
-    width: 100%;
-  }
+.cid-sk5ch2mH4d {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #010110;
 }
-.cid-sk4QKPLaSV .mbr-section-title {
-  text-align: left;
+.cid-sk5ch2mH4d .media-container-row .mbr-text {
+  color: #e4d295;
 }
