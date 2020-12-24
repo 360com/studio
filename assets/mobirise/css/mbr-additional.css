@@ -2580,49 +2580,6 @@ section.lazy-placeholder:after {
   padding-bottom: 30px;
   background-color: #e73872;
 }
-.cid-sk4QKPLaSV {
-  display: flex;
-  background-image: url("../../../assets/images/2021-1-360com-masque-ar-vr-2000x1001.jpg");
-}
-.cid-sk4QKPLaSV .mbr-overlay {
-  background-color: #353535;
-  opacity: 0.5;
-}
-.cid-sk4QKPLaSV .content-wrap {
-  padding: 5rem 1rem;
-}
-@media (min-width: 768px) {
-  .cid-sk4QKPLaSV {
-    align-items: flex-end;
-  }
-  .cid-sk4QKPLaSV .row {
-    justify-content: center;
-  }
-  .cid-sk4QKPLaSV .content-wrap {
-    width: 51%;
-  }
-}
-@media (max-width: 991px) and (min-width: 768px) {
-  .cid-sk4QKPLaSV .content-wrap {
-    min-width: 50%;
-  }
-}
-@media (max-width: 767px) {
-  .cid-sk4QKPLaSV {
-    -webkit-align-items: center;
-    align-items: center;
-  }
-  .cid-sk4QKPLaSV .mbr-row {
-    -webkit-justify-content: center;
-    justify-content: center;
-  }
-  .cid-sk4QKPLaSV .content-wrap {
-    width: 100%;
-  }
-}
-.cid-sk4QKPLaSV .mbr-section-title {
-  text-align: left;
-}
 .cid-sc4EmmGVpN .navbar {
   padding: .5rem 0;
   background: #232323;
@@ -3373,4 +3330,47 @@ section.lazy-placeholder:after {
 .cid-sk4Ua6qCFA .card-img span {
   font-size: 96px;
   color: #149dcc;
+}
+.cid-sk4QKPLaSV {
+  display: flex;
+  background-image: url("../../../assets/images/2021-1-360com-masque-ar-vr-2000x1001.jpg");
+}
+.cid-sk4QKPLaSV .mbr-overlay {
+  background-color: #353535;
+  opacity: 0.5;
+}
+.cid-sk4QKPLaSV .content-wrap {
+  padding: 5rem 1rem;
+}
+@media (min-width: 768px) {
+  .cid-sk4QKPLaSV {
+    align-items: flex-end;
+  }
+  .cid-sk4QKPLaSV .row {
+    justify-content: center;
+  }
+  .cid-sk4QKPLaSV .content-wrap {
+    width: 51%;
+  }
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-sk4QKPLaSV .content-wrap {
+    min-width: 50%;
+  }
+}
+@media (max-width: 767px) {
+  .cid-sk4QKPLaSV {
+    -webkit-align-items: center;
+    align-items: center;
+  }
+  .cid-sk4QKPLaSV .mbr-row {
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+  .cid-sk4QKPLaSV .content-wrap {
+    width: 100%;
+  }
+}
+.cid-sk4QKPLaSV .mbr-section-title {
+  text-align: left;
 }
