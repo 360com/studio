@@ -2988,18 +2988,52 @@ section.lazy-placeholder:after {
 .cid-sc4EmmGVpN .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-sk4TIWK1XL {
-  background-image: url("../../../assets/images/360-studio-de-creation-vr-ar-1-2000x1001.jpg");
+.cid-sk50f8xmWT {
+  display: flex;
+  background-image: url("../../../assets/images/00-2021-intro-web-360com-2000x1001.jpg");
 }
-.cid-sk4TIWK1XL P {
-  color: #767676;
+.cid-sk50f8xmWT .mbr-overlay {
+  background-color: #510619;
+  opacity: 0.3;
 }
-.cid-sk4TIWK1XL H1 {
-  color: #efefef;
+.cid-sk50f8xmWT .content-wrap {
+  padding: 5rem 1rem;
 }
-.cid-sk4TIWK1XL .mbr-text,
-.cid-sk4TIWK1XL .mbr-section-btn {
-  color: #efefef;
+@media (min-width: 768px) {
+  .cid-sk50f8xmWT {
+    align-items: flex-end;
+  }
+  .cid-sk50f8xmWT .row {
+    justify-content: center;
+  }
+  .cid-sk50f8xmWT .content-wrap {
+    width: 51%;
+  }
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-sk50f8xmWT .content-wrap {
+    min-width: 50%;
+  }
+}
+@media (max-width: 767px) {
+  .cid-sk50f8xmWT {
+    -webkit-align-items: center;
+    align-items: center;
+  }
+  .cid-sk50f8xmWT .mbr-row {
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+  .cid-sk50f8xmWT .content-wrap {
+    width: 100%;
+  }
+}
+.cid-sk50f8xmWT .mbr-section-title {
+  text-align: center;
+}
+.cid-sk50f8xmWT .mbr-text,
+.cid-sk50f8xmWT .mbr-section-btn {
+  text-align: center;
 }
 .cid-sk4TLbJQSv {
   background-image: url("../../../assets/images/realite-augmentee-360com-1-2000x1001.jpg");
