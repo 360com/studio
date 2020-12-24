@@ -2980,10 +2980,10 @@ section.lazy-placeholder:after {
 }
 .cid-sk50f8xmWT {
   display: flex;
-  background-image: url("../../../assets/images/00-2021-intro-web-360com-2000x1001.jpg");
+  background-image: url("../../../assets/images/02-2021-intro-web-360com-2000x1001.jpg");
 }
 .cid-sk50f8xmWT .mbr-overlay {
-  background-color: #510619;
+  background-color: #021116;
   opacity: 0.3;
 }
 .cid-sk50f8xmWT .content-wrap {
@@ -3355,23 +3355,52 @@ section.lazy-placeholder:after {
   font-size: 96px;
   color: #149dcc;
 }
-.cid-sk5brkBqz2 {
-  background-image: url("../../../assets/images/2021-1-360com-masque-ar-vr-2000x1001.jpeg");
+.cid-sk5e2GZimr {
+  display: flex;
+  background-image: url("../../../assets/images/2021-1-360com-masque-ar-vr-2000x1001.jpg");
 }
-.cid-sk5brkBqz2 P {
-  color: #767676;
+.cid-sk5e2GZimr .mbr-overlay {
+  background-color: #353535;
+  opacity: 0.5;
 }
-.cid-sk5brkBqz2 H1 {
-  color: #efefef;
+.cid-sk5e2GZimr .content-wrap {
+  padding: 5rem 1rem;
 }
-.cid-sk5brkBqz2 .mbr-text,
-.cid-sk5brkBqz2 .mbr-section-btn {
-  color: #efefef;
+@media (min-width: 768px) {
+  .cid-sk5e2GZimr {
+    align-items: flex-end;
+  }
+  .cid-sk5e2GZimr .row {
+    justify-content: center;
+  }
+  .cid-sk5e2GZimr .content-wrap {
+    width: 51%;
+  }
 }
-.cid-sk5b7jb539 {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #000000;
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-sk5e2GZimr .content-wrap {
+    min-width: 50%;
+  }
+}
+@media (max-width: 767px) {
+  .cid-sk5e2GZimr {
+    -webkit-align-items: center;
+    align-items: center;
+  }
+  .cid-sk5e2GZimr .mbr-row {
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+  .cid-sk5e2GZimr .content-wrap {
+    width: 100%;
+  }
+}
+.cid-sk5e2GZimr .mbr-section-title {
+  text-align: center;
+}
+.cid-sk5e2GZimr .mbr-text,
+.cid-sk5e2GZimr .mbr-section-btn {
+  text-align: center;
 }
 .cid-sk5ch2mH4d {
   padding-top: 30px;
